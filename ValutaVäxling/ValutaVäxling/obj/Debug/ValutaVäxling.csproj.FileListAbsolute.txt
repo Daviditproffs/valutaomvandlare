@@ -1,0 +1,15 @@
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\bin\Debug\ValutaVäxling.exe.config
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\bin\Debug\ValutaVäxling.exe
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\bin\Debug\ValutaVäxling.pdb
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.csprojAssemblyReference.cache
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.Properties.Resources.resources
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.csproj.GenerateResource.cache
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.csproj.CoreCompileInputs.cache
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.exe
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.pdb
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.csproj.CopyComplete
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.Kvitto.resources
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.Globals.resources
+C:\Users\david.milosevic\source\repos\ValutaVäxling\ValutaVäxling\obj\Debug\ValutaVäxling.Inställningar.resources
